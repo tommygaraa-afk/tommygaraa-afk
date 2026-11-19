@@ -55,7 +55,5 @@ int main() {
   <a href="mailto:tommy.garaa@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="IL_TUO_LINK_SPOTIFY" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
-  </a>
-</p>
+  <a href="https://open.spotify.com/user/31fluploqmqrlxagmvha3qts7g5m?si=f414526cf03c4e4a" target="_blank">
+    <img src="
